@@ -1,4 +1,4 @@
-# Rotacion Empleados
+# Employee Rotation
 **ENG**
 
 Hello world, in this project we are going to perform an extensive predictive analysis on the propensity of employees to leave the company.
@@ -8,6 +8,7 @@ To view the project, go to the file Análisis_abandono_emandono_empresa.ipynb
 
 Enjoy the project, Aaron!
 
+# Rotacion Empleados
 **ESP**
 
 Hola mundo, en este proyecto vamos a realizar un extenso análisis predictivo sobre la propensión de los empleados a abandonar la empresa.
