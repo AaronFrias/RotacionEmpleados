@@ -16,5 +16,3 @@ Analizaremos las diferentes métricas y averiguaremos qué variables tienen una 
 Para ver el proyecto, vaya al archivo Análisis_abandono_emandono_empresa.ipynb
 
 ¡Disfruta del proyecto, Aaron!
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
